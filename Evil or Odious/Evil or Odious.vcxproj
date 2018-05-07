@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{F96B62E3-124F-4F8D-8987-9B122EB0EEFD}</ProjectGuid>
+    <ProjectGuid>{F22E3B28-EB7A-4247-BA08-27FCDC4FB4A4}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>CodeWars</RootNamespace>
+    <RootNamespace>EvilorOdious</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -151,7 +151,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CodeWars.cpp" />
+    <ClCompile Include="Evil or Odious.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
